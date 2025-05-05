@@ -2,7 +2,7 @@
 
 A session-aware fashion recommendation chatbot using open-source LLMs like ChatGPT, offering personalized styling advice through natural conversation.
 
-![Basic Flow](assets/img/basic_flow.png)
+![Basic Flow] (assets/img/basic_flow.png)
 *Figure 1: System Design - Local Jupyter Notebook Development Flow and Recommendation Engine*
 
 ## Repository Contents
