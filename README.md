@@ -1,6 +1,6 @@
 # Apparel-Chat-Recommender
 
-A session-aware fashion recommendation chatbot using open-source LLMs like ChatGPT, offering personalized styling advice through natural conversation.
+A session-aware fashion recommendation chatbot using LLMs like ChatGPT, offering personalized styling advice through natural conversation.
 
 ![Basic Flow](assets/img/basic_flow.png)
 *Figure 1: System Design - Local Jupyter Notebook Development Flow and Recommendation Engine*
